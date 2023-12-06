@@ -22,5 +22,5 @@ I'm deeply interested in technology, problem-solving, and crafting user-friendly
 
 ## Contact
 
-📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)
-🔗 LinkedIn: [linkedin.com/in/KaranParate](https://www.linkedin.com/in/KaranParate)
+📧 Email: parate21karan@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/karan-parate-53a1b71b2
