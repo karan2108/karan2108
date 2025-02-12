@@ -7,7 +7,7 @@ Hey there! I'm Karan Parate, a passionate Computer Engineering graduate seeking 
 
 - 👨‍🎓 Computer Engineering graduate from St. Vincent Palloti College of Engineering in 2023.
 - 💻 Proficient in languages like C/C++, Java, etc.
-- 🌐 Developing skills in web technologies like HTML/CSS.
+- 🌐 Developing skills in web technologies like HTML/CSS, ReactJs, JavaScript, etc.
 - 📚 Always eager to learn and grow in the dynamic IT industry.
 
 ## Skills
@@ -15,6 +15,8 @@ Hey there! I'm Karan Parate, a passionate Computer Engineering graduate seeking 
 - Programming Languages: C/C++, Java
 - Web Development: HTML/CSS
 - Data Analysis: MS Excel
+- Database: MySQL
+- Also familiar with: Git, GitHub, Visual Studio Code, Eclipse
 
 ## Interests
 
